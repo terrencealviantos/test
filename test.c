@@ -1,0 +1,4 @@
+asfsafsfsfsdasdf
+a
+__SEG_FSafs
+__GCC_ASM_FLAG_OUTPUTS__dfa
